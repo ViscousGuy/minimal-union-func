@@ -1,0 +1,14 @@
+{
+  "name": "minimal-union-func",
+  "version": "1.0.0",
+  "description": "A minimal utility function to merge two arrays, preserving order and removing duplicates, with deep equality support for objects and arrays.",
+  "main": "union.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "shubham jain",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
